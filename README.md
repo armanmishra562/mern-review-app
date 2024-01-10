@@ -30,7 +30,7 @@ Furthermore, users have the flexibility to refine their movie reviews by leverag
 
 1. Download the Vs Code IDE on your machine
 
-2. Download the zip file of GitHub repository or clone the repository using ```  git clone https://github.com/akm-engineer/mern-deploy-movie-app.git  ```
+2. Download the zip file of GitHub repository or clone the repository using ```  git clone https://github.com/armanmishra562/mern-review-app.git  ```
 
 3. Extract all the files in the folder on your device
 
